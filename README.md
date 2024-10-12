@@ -1,2 +1,2 @@
-# dsba-aads-contests
+# dsba-ads-contests
 Solutions for the DSBA AaDS Contests
